@@ -59,5 +59,5 @@ Cada exercício está estruturado em pastas próprias com:
 
 1. Clone o projeto:
 ```bash
-git clone https://github.com/seuusuario/nome-do-repositorio.git
+git clone (https://github.com/fernandaloura/Lista-de-Exercicios).git
 
